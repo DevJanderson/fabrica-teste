@@ -1,0 +1,5 @@
+{
+  "max_rounds": 3,
+  "concurrency": 3,
+  "checks_timeout_minutes": 30
+}
